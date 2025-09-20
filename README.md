@@ -68,13 +68,13 @@ Power BI Dashboard:
 
 📂 Repository Contents
 
- Raw sales dataset-->
+ Raw sales dataset-->https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/BlinkIT%20Grocery%20Data.csv
 
- SQL queries for preprocessing-->
+ SQL queries for preprocessing-->https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/SQLQuery1.sql
 
-Power BI dashboard template-->
+Power BI dashboard template-->https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/blinkit_sales_dashboard.pbit
 
-Python Jupyter Notebook -->
+Python Jupyter Notebook -->https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/blinkit%20analysis%20project(python).ipynb
 
 
 
