@@ -76,6 +76,8 @@ Power BI dashboard template-->https://github.com/kalpeshkad29/Blinkit-sales-Caps
 
 Python Jupyter Notebook -->https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/blinkit%20analysis%20project(python).ipynb
 
+Dashboard screenshot--.https://github.com/kalpeshkad29/Blinkit-sales-Capstone-project/blob/main/blinkit_sales_dashboard_screenshot.png
+
 
 
 📈 Outcome
